@@ -1,0 +1,111 @@
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\bankingDB.mdf
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\bankingDB_log.ldf
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\banking2.exe.config
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\banking2.exe.manifest
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\banking2.application
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\banking2.exe
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\bin\Release\banking2.pdb
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.acc.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.AccountOp.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.adminCardReq.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.adminEmployee.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.adminLoanApproval.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.adminLoans.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.applyCD.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.applyLoan.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.approveLoan.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.bankInfo.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.cardAccept.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.cardReq.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.customer.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.customers.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.deposit.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.depositLoan.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.enterac.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.enterLoanNo.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.enterLoanNo1.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.enterLoanNo2.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.Form1.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.loanApproved.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.loanDetails.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.loanReq.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.loans.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.loanStatus.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.mCreq.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.menu.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.multipleEmi.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.newEmp.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.passbook.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.profile.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.Properties.Resources.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.rejected.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.ruPay.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.todayLoan.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.totalLoans.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.transfer.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.updateInfo.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.visaReq.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.welcome.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.withdrawal.resources
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking_mgmt_system.csproj.GenerateResource.cache
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking_mgmt_system.csproj.CoreCompileInputs.cache
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.exe.manifest
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.application
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.exe
+C:\Users\navnit\Desktop\Banking Mgmt System\banking2\obj\Release\banking2.pdb
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\bankingDB.mdf
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\bankingDB_log.ldf
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\banking2.exe.config
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\banking2.exe.manifest
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\banking2.application
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\banking2.exe
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\bin\Release\banking2.pdb
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking_mgmt_system.csproj.AssemblyReference.cache
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.acc.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.AccountOp.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.adminCardReq.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.adminEmployee.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.adminLoanApproval.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.adminLoans.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.applyCD.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.applyLoan.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.approveLoan.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.bankInfo.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.cardAccept.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.cardReq.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.customer.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.customers.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.deposit.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.depositLoan.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.enterac.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.enterLoanNo.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.enterLoanNo1.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.enterLoanNo2.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.Form1.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.loanApproved.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.loanDetails.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.loanReq.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.loans.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.loanStatus.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.mCreq.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.menu.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.multipleEmi.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.newEmp.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.passbook.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.profile.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.Properties.Resources.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.rejected.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.ruPay.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.todayLoan.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.totalLoans.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.transfer.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.updateInfo.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.visaReq.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.welcome.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.withdrawal.resources
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking_mgmt_system.csproj.GenerateResource.cache
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking_mgmt_system.csproj.CoreCompileInputs.cache
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.exe.manifest
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.application
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.exe
+C:\Users\navnit\Desktop\Banking_Mgmt_System\banking2\obj\Release\banking2.pdb
