@@ -13,3 +13,8 @@
 -  Give it a try !!.
 
 # Images
+### Login Form
+![image](https://raw.githubusercontent.com/navnit75/Bank-Mgmt-Sys/main/images/01_login_form.png)
+
+### Dashboard
+![image](https://raw.githubusercontent.com/navnit75/Bank-Mgmt-Sys/main/images/02_starting_dashboard.png)
