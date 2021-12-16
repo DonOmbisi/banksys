@@ -9,6 +9,7 @@
 
 # Prerequisites
 - For admin login use 
+- Open the .sln file in Visual Studio and build the solution
 ```
 username: admin
 passoword: 1234
