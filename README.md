@@ -8,8 +8,8 @@
   - It also includes Loan Management.  
 
 # Prerequisites
-- For admin login use 
 - Open the .sln file in Visual Studio and build the solution
+- For admin login use 
 ```
 username: admin
 passoword: 1234
