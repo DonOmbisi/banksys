@@ -8,7 +8,7 @@
   - It also includes Loan Management.  
 
 # Prerequisites
-- For intial login use
+- For admin login use 
 ```
 username: admin
 passoword: 1234
