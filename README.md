@@ -7,6 +7,12 @@
   - Banking operation such as `Fund Transfer`,`Fund Withdrawal`,`Fund Deposit` etc. 
   - It also includes Loan Management.  
 
+# Prerequisites
+- For intial login use
+```
+username: admin
+passoword: 1234
+```
 # Code 
 -  Basically its just extracting data from DB and displaying .
 -  Code is scattered, but works just fine. 
