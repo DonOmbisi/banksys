@@ -8,8 +8,14 @@
   - It also includes Loan Management.  
 
 # Prerequisites
-- Open the .sln file in Visual Studio and build the solution
-- For admin login use 
+- Visual Studio Code
+- Plugins Required are : 
+```
+SQL Server
+.NET developement Environment
+```
+- Open the .sln file in Visual Studio ,build the solution and you are ready to go !
+- For intial admin login use
 ```
 username: admin
 passoword: 1234
