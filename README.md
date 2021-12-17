@@ -11,7 +11,7 @@
 - Visual Studio Code
 - Plugins Required are : 
 ```
-SQL Server
+Ms-SQL Server
 .NET developement Environment
 ```
 - Open the .sln file in Visual Studio ,build the solution and you are ready to go !
