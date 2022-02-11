@@ -22,7 +22,7 @@ passoword: 1234
 ```
 # Code 
 -  Basically its just extracting data from DB and displaying .
--  Code is scattered, but works just fine. 
+-  Code is scattered (doesn't follow any design paradigm), but works just fine. 
 -  Give it a try !!.
 
 # Images
