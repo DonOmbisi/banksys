@@ -5,7 +5,7 @@
   - Account Creation / Deletion
   - Basic  `admin` and `employee`  based login.
   - Banking operation such as `Fund Transfer`,`Fund Withdrawal`,`Fund Deposit` etc. 
-  - It also includes Loan Management.  
+  - It also includes `Loan Management`.  
 
 # Prerequisites
 - Visual Studio Code
