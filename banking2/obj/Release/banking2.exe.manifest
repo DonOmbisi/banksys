@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>phAXdaj7VYjhztameTSpcQuiApkc+k/Tai06byKS/FE=</dsig:DigestValue>
+        <dsig:DigestValue>YA5V7rHfyJWTKZPnyjJnZBQA9WF3+82e7D5/LL2MIq8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="banking2.exe.config" size="541">
+  <file name="banking2.exe.config" size="553">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>pyPUUS2kcMYqOencxvtUq0pCmgK+RkI7JOs70xyrtCM=</dsig:DigestValue>
+      <dsig:DigestValue>5lnFCqZJ1SRGHYeb5xPLBgPYYgmIUE9S4BJFKmPUP4w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="bankingDB.mdf" size="8388608" writeableType="applicationData">
@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qaQCWyuz6Z2To/SQfIobPgmlwZeRU+Kl3T11CfaBGyk=</dsig:DigestValue>
+      <dsig:DigestValue>UkBa5le/7cuhLSr9e/SFJPlqytw7WZDdP1jTEDml/mA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="bankingDB_log.ldf" size="8388608" writeableType="applicationData">
@@ -77,7 +77,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>nzHv3ZJAhqRCTHEwy18lVhe4wMf409Zv+rp4reEsvc8=</dsig:DigestValue>
+      <dsig:DigestValue>IXAcZrvgtv8CBkC/kqqzFw+CP/Z7yD2ijjt8eCZv/W8=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

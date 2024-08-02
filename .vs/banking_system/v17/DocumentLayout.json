@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donmi\\source\\repos\\banking-mgmt-sys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC40F3E6-C326-44A9-9149-0E7ADB3CD91A}|banking2\\banking_mgmt_system.csproj|c:\\users\\donmi\\source\\repos\\banking-mgmt-sys\\banking2\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC40F3E6-C326-44A9-9149-0E7ADB3CD91A}|banking2\\banking_mgmt_system.csproj|solutionrelative:banking2\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC40F3E6-C326-44A9-9149-0E7ADB3CD91A}|banking2\\banking_mgmt_system.csproj|c:\\users\\donmi\\source\\repos\\banking-mgmt-sys\\banking2\\admincardreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC40F3E6-C326-44A9-9149-0E7ADB3CD91A}|banking2\\banking_mgmt_system.csproj|solutionrelative:banking2\\admincardreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\donmi\\source\\repos\\banking-mgmt-sys\\banking2\\connection.cs",
+              "RelativeDocumentMoniker": "banking2\\connection.cs",
+              "ToolTip": "C:\\Users\\donmi\\source\\repos\\banking-mgmt-sys\\banking2\\connection.cs",
+              "RelativeToolTip": "banking2\\connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:51:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminCardReq.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donmi\\source\\repos\\banking-mgmt-sys\\banking2\\adminCardReq.cs",
+              "RelativeDocumentMoniker": "banking2\\adminCardReq.cs",
+              "ToolTip": "C:\\Users\\donmi\\source\\repos\\banking-mgmt-sys\\banking2\\adminCardReq.cs [Design]",
+              "RelativeToolTip": "banking2\\adminCardReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:51:29.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
